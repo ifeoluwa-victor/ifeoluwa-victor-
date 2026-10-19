@@ -2,7 +2,7 @@
 
 Final-year Radiography student at Lead City University, Nigeria (expected graduation: September 2027).
 
-I am learning how to **check AI-written answers for mistakes**, label data carefully, and use Excel to analyse data. My clinical interest is **diagnostic imaging, especially obstetric ultrasound**.
+I am learning how to **check AI-written answers for mistakes**, label data carefully, and use Excel to analyse data. My clinical interest is **diagnostic imaging, especially ultrasound**.
 
 > **Student status:** I am a student. I am not a qualified, licensed or independently practising radiographer or sonographer. Nothing here is medical advice.
 
